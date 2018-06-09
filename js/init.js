@@ -7,4 +7,6 @@ $(document).ready(function () {
   $('.button-collapse').sideNav();
   // init Modal
   $('.modal').modal();
+  // init material-selected
+  $('select').material_select();
 });
